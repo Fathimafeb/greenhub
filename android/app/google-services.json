@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238646738437",
+    "project_id": "greenhub-9e992",
+    "storage_bucket": "greenhub-9e992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238646738437:android:c420a9fc72cafec127266c",
+        "android_client_info": {
+          "package_name": "com.example.greenhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYo_3NaN_3SqYv5Of1hZfYirZhvF2zyFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
